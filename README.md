@@ -1,10 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm İsmet Sandıkçı</h1>
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/ismetsandikci/" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/ismetsandikci/" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto: ismetburaksandikci@gmail.com" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
 - 🔭 I’m currently working on <a href="https://github.com/ismetsandikci/ReCapProject">ReCapProject-Backend</a> & <a href="https://github.com/ismetsandikci/ReCapProject-Frontend">ReCapProject-Frontend</a>
 - 🌱 I’m currently learning C# & .Net Core and Angular - Javascript
 
